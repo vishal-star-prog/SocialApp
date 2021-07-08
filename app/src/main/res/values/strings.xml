@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialApp</string>
+    <string name="hint_editText">Post here</string>
+    <string name="button_name">Post</string>
+</resources>
